@@ -39,8 +39,7 @@
     </div>
     <footer class="container">
         <p>&copy; WebMarket</p>
-    </footer>
-<%
+        <%
 	Date day = new java.util.Date();
 	String am_pm;
 	int hour = day.getHours();
@@ -55,6 +54,8 @@
 	String CT = hour + ":" + minute + ":" + second + " " + am_pm;
 	out.println("현재 접속  시각: " + CT + "\n");
 %>
+    </footer>
+
 
 </body>
 
