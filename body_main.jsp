@@ -1,8 +1,8 @@
 <%@ page contentType = "text/html; charset=utf-8" %>
 
 <%-- CLASS는 스타일 적용시에 사용되는 이름, 중첩 가능 --%>
-<%! String greeting = "올리브영에 오신것을 환영합니다.";
-        String tagline = "올영세일 끝남!";%>
+<%! String greeting = "올리브연우에 오신것을 환영합니다.";
+        String tagline = "올연세일 끝남!";%>
 <div class="jumbotron">
     <div class="container">
         <h1 class="display-3">
