@@ -20,7 +20,7 @@
 </div>
 
 <div class="card bg-dark text-black">
-    <img src="image/olivefirst.jpg" class="card-img" alt="...">
+    <img src="image/olivepage.png" class="card-img" alt="...">
     <div class="card-img-overlay">
     <h5 class="card-title">올리브연 가을 이벤트</h5>
     <p class="card-text">기간 : 소진시까지</p>
