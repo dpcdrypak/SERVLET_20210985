@@ -12,6 +12,6 @@
             dateFormat.setTimeZone(TimeZone.getTimeZone("Asia/Seoul"));
             String koreanTime = dateFormat.format(now);
         %>
-        오늘 날짜와 시간: <%= koreanTime %>
+        오늘 한국 시간: <%= koreanTime %>
     </p>
 </footer>
