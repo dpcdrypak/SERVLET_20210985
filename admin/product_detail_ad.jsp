@@ -52,9 +52,9 @@
                     <p><b>재고 수</b> : <%=product.getUnitsInStock()%></p>
                     <h4><%=product.getUnitPrice()%>원</h4>
                     
-                    <p><form name = "addForm" action ="../cart/product_cart_add.jsp?id=<%=product.getProductId()%>" method="post">
+                    <p><form name = "addForm" action ="../admin/product_cart_add_ad.jsp?id=<%=product.getProductId()%>" method="post">
                     <a href="#" class="btn btn-info" onclick="addToCart()"> 상품 주문 &raquo;</a>
-                    <a href="./product_cart_ad.jsp" class="btn btn-warning"> 장바구니 &raquo; </a>
+                    <a href="../admin/product_cart_ad.jsp" class="btn btn-warning"> 장바구니 &raquo; </a>
                     </form>
                     
                     <div class="card bg-dark text-white">

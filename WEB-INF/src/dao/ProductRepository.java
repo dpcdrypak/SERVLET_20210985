@@ -11,7 +11,7 @@ public class ProductRepository{
     }
     
     public ProductRepository() {
-        Product powder = new Product("C1234", "바닐라코 프라임 프라이머 피니쉬 파우더", 22000);
+        Product powder = new Product("C1234", "바닐라코 프라이머 피니쉬 파우더", 22000);
         powder.setDescription("메이크업 마지막 단계에 내장된 퍼프나 파우더 브러쉬를 사용하여 가볍게 두드리거나 쓸어주듯 발라줍니다.");
         powder.setCategory("파우더/팩트");
         powder.setManufacturer("바닐라코");
@@ -19,7 +19,7 @@ public class ProductRepository{
         powder.setCondition("인기");
         powder.setFilename("C1234.png");
         
-        Product suncushion = new Product("C1235", "라운드랩 라운드랩 자작나무 수분 선쿠션", 24000);
+        Product suncushion = new Product("C1235", "라운드랩 자작나무 수분 선쿠션", 24000);
         suncushion.setDescription("기초 스킨케어 마지막 단계에서 적당량을 퍼프에 묻혀 얼굴 전체에 두드리며 펴 발라줍니다. *필요에 따라 수시로 덧발라줍니다.");
         suncushion.setCategory("선쿠션/파우더");
         suncushion.setManufacturer("라운드랩");
