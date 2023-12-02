@@ -70,7 +70,7 @@ public class ProductRepository{
     
     
     public ArrayList<Product> getAllProducts() {
-		return listOfProducts;
+      return listOfProducts;
     }
 
 
