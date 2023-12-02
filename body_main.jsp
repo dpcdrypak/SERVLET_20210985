@@ -73,10 +73,9 @@
 </div>
 
 <div class="list-group">
-    <a herf="#" class="list-group-item list-group-item-action active" aria-current="true">추석 세일 메이크업</a>
-    <a herf="#" class="list-group-item list-group-item-action">바닐라코 파우더</a>
-    <a herf="#" class="list-group-item list-group-item-action">더샘 컨실러</a>
-    <a herf="#" class="list-group-item list-group-item-action">롬앤 물광틴트</a>
+    <a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000180235&dispCatNo=90000010002&trackingCd=Today&t_page=%EC%98%A4%ED%8A%B9&t_click=%EC%98%A4%EB%8A%98%EC%9D%98%ED%8A%B9%EA%B0%80_%EC%9D%B8%EA%B8%B0%EC%88%9C_%EC%83%81%ED%92%88%EC%83%81%EC%84%B8&t_number=3" class="list-group-item list-group-item-action active" aria-current="true">[특가] 달바 선크림</a>
 
-
+    <a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000191822&dispCatNo=90000010009&trackingCd=Best_Sellingbest&t_page=%EB%9E%AD%ED%82%B9&t_click=%ED%8C%90%EB%A7%A4%EB%9E%AD%ED%82%B9_%EC%A0%84%EC%B2%B4_%EC%83%81%ED%92%88%EC%83%81%EC%84%B8&t_number=8" class="list-group-item list-group-item-action">마녀공장 클렌징 오일</a>
+    <a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000177593&t_page=%ED%86%B5%ED%95%A9%EA%B2%80%EC%83%89%EA%B2%B0%EA%B3%BC%ED%8E%98%EC%9D%B4%EC%A7%80&t_click=%EA%B2%80%EC%83%89%EC%83%81%ED%92%88%EC%83%81%EC%84%B8&t_search_name=%EB%8D%94%EC%83%98%20%EC%BB%A8%EC%8B%A4%EB%9F%AC&t_number=1&dispCatNo=1000001000200010005&trackingCd=Result_1" class="list-group-item list-group-item-action">더샘 컨실러</a>
+    <a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000179969&t_page=%ED%86%B5%ED%95%A9%EA%B2%80%EC%83%89%EA%B2%B0%EA%B3%BC%ED%8E%98%EC%9D%B4%EC%A7%80&t_click=%EA%B2%80%EC%83%89%EC%83%81%ED%92%88%EC%83%81%EC%84%B8&t_search_name=%ED%8E%98%EB%A6%AC%ED%8E%98%EB%9D%BC%20%ED%8B%B4%ED%8A%B8&t_number=2&dispCatNo=1000001000200060003&trackingCd=Result_2" class="list-group-item list-group-item-action">페리파레 워터베어 틴트</a>
 </div>

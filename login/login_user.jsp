@@ -10,7 +10,7 @@
     <jsp:include page="../top_menu.jsp"/>
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-3">관리자 모드 접근 - 로그인이 필요합니다.</h1>
+            <h1 class="display-3">일반 사용자 모드 접근 - 로그인이 필요합니다.</h1>
         </div>
     </div>
     <div class="container" align="center">
@@ -24,7 +24,7 @@
                out.println("</div>");
             }
          %>
-            <form class="form-signin" action="${pageContext.request.contextPath}/j_security_check" method="post">
+            <form class="form-signin" action="j_security_check" method="post">
                 <div class="form-group">
                     <label for="inputUserName" class="sr-only">User Name</label>
                     <input type="text" class="form-control" placeholder="ID" name='j_username' required autofocus>
@@ -34,10 +34,12 @@
                     <input type="password" class="form-control" placeholder="Password" name='j_password' required>
                 </div>
                 <button class="btn btn btn-lg btn-success btn-block" type="submit">로그인</button>
+                <button class="btn btn btn-lg btn-success btn-block"><a href="../member/member_join.jsp">회원가입</a></button>
                 
             </form>
         </div>
     </div>
+    
 </body>
 
 </html>

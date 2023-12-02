@@ -5,11 +5,13 @@
         카테고리
         </button>
     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <a class="dropdown-item" href="#">스킨케어</a>
-        <a class="dropdown-item" href="#">클렌징</a>
-        <a class="dropdown-item" href="#">마스크팩</a>
-        <a class="dropdown-item" href="#">선케어</a>
-        <a class="dropdown-item" href="#">메이크업</a>
+<a class="dropdown-item" href="https://jsp-main--bczfi.run.goorm.site/product_detail.jsp?id=C1236">스킨케어</a>
+<a class="dropdown-item" href="https://jsp-main--bczfi.run.goorm.site/product_detail.jsp?id=C1238">클렌징</a>
+<a class="dropdown-item" href="https://jsp-main--bczfi.run.goorm.site/product_detail.jsp?id=C1237">스킨패드</a>
+<a class="dropdown-item" href="https://jsp-main--bczfi.run.goorm.site/product_detail.jsp?id=C1235">선케어</a>
+<a class="dropdown-item" href="https://jsp-main--bczfi.run.goorm.site/product_detail.jsp?id=C1239">메이크업</a>
+        <a class="dropdown-item" href="https://jsp-main--bczfi.run.goorm.site/product_detail.jsp?id=C1234">파우더</a>
+
      </div>
 	</div>
     
@@ -19,9 +21,9 @@
     
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="index.jsp">상품목록(기본 홈)</a>
-            <a class="navbar-brand" href="./index.jsp">회원가입</a>
-            <a class="navbar-brand" href="./index.jsp">고객센터</a>
+			<a class="navbar-brand" href="../index.jsp">상품목록(기본 홈)</a>
+            <a class="navbar-brand" href="../member/member_join.jsp">회원가입</a>
+            <a class="navbar-brand" href="/BoardListAction.do?pageNum=1">게시판(고객센터)</a>
             <a class="navbar-brand" href="admin/index_ad.jsp">관리자모드(로그인)</a>
 		</div>
 	</div>
