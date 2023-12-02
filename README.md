@@ -38,7 +38,7 @@
 
 ---
 
-# 배송정보 페이지(order_info.jsp)
+# 배송정보 페이지(order_info.jsp)-[11주차 연습문제]
 ![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/e063771f-ae52-440b-b5e3-6e65fc4845d8)
 11. 주문하기 버튼을 누르면 배송정보 페이지로 이동된다.<br/><br/>
     
@@ -67,7 +67,7 @@
 
 ---
 
-# 관리자모드(로그인) 페이지(index_ad.jsp)
+# 관리자모드(로그인) 페이지(index_ad.jsp)-[9주차 연습문제]
 
 ![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/d1f9526b-cc7e-4b85-91c1-a7f5d0a54b8c)
 19. 탑 메뉴에 있는 관리자모드(로그인)을 클릭하면 관리자 모드에 접근하기 위한 로그인 창이 뜬다. 로그인을 하게되면 관리자 모드로 연결된다.
@@ -102,7 +102,7 @@
 
 ---
 
-# 상품편집/삭제 페이지(product_edit.jsp)
+# 상품편집/삭제 페이지(product_edit.jsp)-[13주차 연습문제]
 
 ![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/d412e35e-467a-4a04-a6f3-eee5b093203d)
 
@@ -120,7 +120,7 @@
     
 ---
 
-# 일반 사용자 모드 로그인 페이지(login_user.jsp)
+# 일반 사용자 모드 로그인 페이지(login_user.jsp)-[14주차 연습문제]
 
 ![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/4ca9f199-5274-452c-a591-f2517ad69767)
 
@@ -129,7 +129,7 @@
 
 ---
 
-# 회원가입 페이지(member_join.jsp)
+# 회원가입 페이지(member_join.jsp)-[14주차 연습문제]
 
 ![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/ad528319-b317-4511-aeb9-3cfc525eba77)
 
@@ -139,8 +139,8 @@
 33. @ 뒷 부분을 입력하지 않으면 제한문구가 뜬다.
 34. 회원가입을 마치고 가입을 누르면 일반 사용자 모드 로그인 페이지로 이동된다.
 
-
-
+* 연습문제 대부분 해결, 데이터 입력이나 뒤에 수정되어 정확하게 명시하기 어려운 것들 때문에 모든 주차 연습문제 해결 되었다고 작성하기 어려움.
+# 하지만 14주차 로그인구현을 제외한 모든 연습문제 해결완료한 상태
 
 
 
