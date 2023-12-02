@@ -12,5 +12,8 @@
 
 ### 23년 10월 4일 : 쇼핑몰 상품 목록 페이지(이미지 포함) 추가
 [index.jsp: 실행/수정 완료](https://github.com/dpcdrypak/SERVLET_20210985/blob/main/index.jsp)
+<<<<<<< HEAD
 
 ### 수정중
+=======
+>>>>>>> 82d43b7d63735a6e0a80c84feac0437d9f3c43f0
