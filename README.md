@@ -9,7 +9,7 @@
 [추가구현] 3. 카테고리를 클릭하면 다음과 같은 보기가 뜨고 예를 들어 스킨케어를 누르면 그에 해당하는 제품의 상세 페이지로 연결된다.<br/><br/>
 
 ![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/b4eb5f49-68d3-443f-a763-cf2b56d01db6)
-[추가구현] 4. "[특가] 달바 선크림" 을 클릭하면 실제 올리브영 상품 페이지로 연결된다. 아래 있는 마녀공장, 더샘, 페리파레도 마찬가지로 실제 올리브영 상품 페이지로 연결된된다. 
+[추가구현] 4. "[특가] 달바 선크림" 을 클릭하면 실제 올리브영 상품 페이지로 연결된다. 아래 있는 마녀공장, 더샘, 페리파레도 마찬가지로 실제 올리브영 상품 페이지로 연결된다. 
 
 [연습문제] 5. 페이지 하단에는 사이트 대표자 기본정보와, 현 날짜와 시간이 뜨고, 현제 페이지 버퍼 용량과 남은 페이지 버퍼 용량이 뜬다.<br/><br/>
 
@@ -64,14 +64,50 @@
 17. 주문완료 버튼을 누르면 주문완료(order_end.jsp)페이지로 이동하고 주문이 완료된다.
  
 18. 취소 버튼을 누르면 주문취소(order_cancelled.jsp)페이지로 이동하고 주문이 취소된다.<br/><br/>
+
+---
+
+# 관리자모드(로그인) 페이지(index_ad.jsp)
+
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/d1f9526b-cc7e-4b85-91c1-a7f5d0a54b8c)
+19. 탑 메뉴에 있는 관리자모드(로그인)을 클릭하면 관리자 모드에 접근하기 위한 로그인 창이 뜬다. 로그인을 하게되면 관리자 모드로 연결된다.
+(ID:manage, PW:020912)
+
+---
+
+# 상품등록 페이지(product_add.jsp)
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/3e98bcd9-7daf-4a74-ae4f-91f759210e1f)
+20. 탑 메뉴에 있는 등록을 클릭하면 상품등록(product_add.jsp)페이지로 이동한다.
     
+21. 상품 등록칸에 새로 등록할 상품의 정보와 사진을 입력하고 등록을 누르면
 
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/0008cf92-91e6-489a-af59-39134230cd17)
+22. 상품이 등록된다.
 
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/1877b07d-1b58-49e2-af6e-d216b86173bd)
+23. 상품명, 재고수, 상품코드, 가격 입력에 대한 제한을 둔다.
 
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/916e86b1-b0d3-432b-80c5-7d3ee7c36a5e)
 
+24. 로그아웃 버튼을 누르면 로그아웃이 된다.
 
+---
 
+# 상품수정 페이지(product_update.jsp)
 
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/4a4e4b11-995f-4fa7-ad89-6b970006112e)
+
+25. 탑 메뉴에 있는 수정을 클릭하면 상품을 수정할 수 있다. 수정>> 버튼을 누르면 상품수정(product_update.jsp)로 이동한다.
+이 상품수정 페이지에서는 상품 수정을 할 수 있다.
+
+---
+
+# 상품편집/삭제 페이지(product_edit.jsp)
+
+![image](https://github.com/dpcdrypak/SERVLET_20210985/assets/112855199/d412e35e-467a-4a04-a6f3-eee5b093203d)
+
+26. 탑 메뉴에 있는 삭제를 클릭하면 상품을 삭제할 수 있다. 삭제 >> 버튼을 누르면 상품삭제(product_edit.jsp)로 이동한다.
+상품을 삭제하면 상품이 삭제된다.
 
 
 
